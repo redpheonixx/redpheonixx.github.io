@@ -9,7 +9,7 @@ name: Amit Kumar Singh
 description: Information Technology Student at AIT Pune
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/Bornfromashes/amit/blob/master/assets/images/profile.jpg
+avatar: http://moziru.com/images/logo-clipart-deadpool-18.jpg
 
 #
 # Flags below are optional
@@ -23,10 +23,10 @@ footer-links:
   flickr:
   github: Bornfromashes
   instagram:
-  linkedin: https://www.linkedin.com/in/amit-singh-864160123/
+  linkedin: amit-singh-864160123
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: amit220698
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
