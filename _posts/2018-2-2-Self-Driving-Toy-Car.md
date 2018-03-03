@@ -1,5 +1,5 @@
 How things works always fascinated me but when I was introduced to machine learning that I can teach machine like a baby the first thing would 
-be how to walk.So I started working on this project Self-driving toy car in a team of three, my batchmate from same branch Satyajit and Abhishek from Entc.
+be how to walk.So I started working on this project Self-driving toy car in a team of three.
 # Car
 Luckily to start with we already had bot which were given by the robotics club to first year student. All we have to do was to make modify that 
 bot and make it suitable for the project.
