@@ -2,7 +2,7 @@
 layout: post
 title: Mozilla Talk
 excerpt: Welcome to The Open Source Society
-image: ![](/images/c.jpg)
+image: /images/c2.png
 ---
 April 8th, 2017 embark the start of the AIT Mozilla Community initiated by our alumnus, Abhijay Ghildiyal.
 It marked the start of contibution to open source socities for many students and participants.
