@@ -1,3 +1,8 @@
+layout: post
+title: Self-Driving-Toy-Car
+excerpt: How things works always fascinated me but when I was introduced to machine learning that I can teach machine like a baby the first thing would be how to walk
+image: /images/bot.png
+
 How things works always fascinated me but when I was introduced to machine learning that I can teach machine like a baby the first thing would 
 be how to walk.So I started working on this project Self-driving toy car in a team of three.
 # Car
