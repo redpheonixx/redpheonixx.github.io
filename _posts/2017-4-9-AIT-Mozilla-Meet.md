@@ -19,7 +19,7 @@ https://www.rust-lang.org/en-US/index.html
 https://github.com/rust-lang
 <br><br>
 The last speaker Tushar choudhary (3rd year student AIT) in his witty nature explained the very new WEB VR and A frame and how in the coming years the entire universe would be VR.The session ended with screening of a fun website made on A frame by me playing hindi parody of cheap thrills and snow falling on screen.Learn more about the project here:
-https://bornfromashes.github.io/sastimasti/
+https://redpheonixx.github.io/sastimasti/
 <br><br>
 This is me explaining my project with Tushar Choudhary sir.
 ![](/images/c.jpg)
